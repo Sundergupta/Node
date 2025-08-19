@@ -1,0 +1,24 @@
+{
+  "name": "sunder",
+  "version": "1.0.0",
+  "description": "starting node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/cli": "^20.1.4",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sundergupta/Node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sundergupta/Node/issues"
+  },
+  "homepage": "https://github.com/Sundergupta/Node#readme"
+}
