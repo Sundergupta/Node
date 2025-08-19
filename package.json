@@ -10,9 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "@angular/cli": "^20.1.4",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
   },
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Sundergupta/Node.git"
